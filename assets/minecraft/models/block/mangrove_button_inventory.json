@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/button_inventory",
   "textures": {
-    "texture": "block/wood/acacia/acacia_log"
+    "texture": "block/wood/mangrove/mangrove_button"
   }
 }
