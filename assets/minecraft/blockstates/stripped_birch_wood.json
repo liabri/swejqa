@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "block/wood/birch/stripped_birch_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "block/wood/birch/stripped_birch_wood"
+    },
+    "axis=z": {
+      "model": "block/wood/birch/stripped_birch_wood",
+      "x": 90
+    }
+  }
+}

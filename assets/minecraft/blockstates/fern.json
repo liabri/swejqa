@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/flora/fern/fern" },
+			{ "model": "block/flora/fern/fern1" },
+			{ "model": "block/flora/fern/fern2" },
+			{ "model": "block/flora/fern/fern3" }
+		]
+    }
+}

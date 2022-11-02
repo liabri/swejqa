@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [ { "model": "block/wood/oak/oak_planks", "weight":1 }
+,{ "model": "block/wood/oak/oak_planks1", "weight":1 }
+,{ "model": "block/wood/oak/oak_planks2", "weight":1 }
+,{ "model": "block/wood/oak/oak_planks3", "weight":1 }
+,{ "model": "block/wood/oak/oak_planks4", "weight":1 }
+,{ "model": "block/wood/oak/oak_planks5", "weight":2 }
+,{ "model": "block/wood/oak/oak_planks6", "weight":2 }
+,{ "model": "block/wood/oak/oak_planks7", "weight":2 }
+,{ "model": "block/wood/oak/oak_planks8", "weight":2 }
+,{ "model": "block/wood/oak/oak_planks9", "weight":1 }
+,{ "model": "block/wood/oak/oak_planks10", "weight":1 }
+,{ "model": "block/wood/oak/oak_planks11", "weight":1 }
+,{ "model": "block/wood/oak/oak_planks12", "weight":1}
+
+ ]   }
+}

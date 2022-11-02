@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "axis=y": [
+				{ "model": "block/wood/birch/birch_wood" },
+				{ "model": "block/wood/birch/birch_wood1" },
+				{ "model": "block/wood/birch/birch_wood2" },
+				{ "model": "block/wood/birch/birch_wood3" },
+				{ "model": "block/wood/birch/birch_wood4" },
+				{ "model": "block/wood/birch/birch_wood5" }
+			],
+        "axis=z": [
+				{ "model": "block/wood/birch/birch_wood", "x": 90 },
+				{ "model": "block/wood/birch/birch_wood1", "x": 90 },
+				{ "model": "block/wood/birch/birch_wood2", "x": 90 },
+				{ "model": "block/wood/birch/birch_wood3", "x": 90 },
+				{ "model": "block/wood/birch/birch_wood4", "x": 90 },
+				{ "model": "block/wood/birch/birch_wood5", "x": 90 }
+			],
+        "axis=x": [
+				{ "model": "block/wood/birch/birch_wood", "x": 90, "y": 90 },
+				{ "model": "block/wood/birch/birch_wood1", "x": 90, "y": 90 },
+				{ "model": "block/wood/birch/birch_wood2", "x": 90, "y": 90 },
+				{ "model": "block/wood/birch/birch_wood3", "x": 90, "y": 90 },
+				{ "model": "block/wood/birch/birch_wood4", "x": 90, "y": 90 },
+				{ "model": "block/wood/birch/birch_wood5", "x": 90, "y": 90 }
+			]
+    }
+}

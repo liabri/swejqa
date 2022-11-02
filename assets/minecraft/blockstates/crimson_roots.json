@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [ { "model": "block/wood/crimson/crimson_roots", "weight":1 }
+,{ "model": "block/wood/crimson/crimson_roots1", "weight":1 }
+,{ "model": "block/wood/crimson/crimson_roots2", "weight":1 }
+,{ "model": "block/wood/crimson/crimson_roots3", "weight":1 }
+
+ ]   }
+}

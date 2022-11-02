@@ -1,0 +1,7 @@
+wool/{
+  "variants": {
+    "": {
+      "model": "minecraft:block/wool/gray_wool"
+    }
+  }
+}

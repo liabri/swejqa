@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": [
+          	  	{ "model": "block/wood/oak/bookshelf/bookshelf", "weight":6},
+				{ "model": "block/wood/oak/bookshelf/bookshelf1", "weight":1},
+				{ "model": "block/wood/oak/bookshelf/bookshelf2", "weight":6},
+				{ "model": "block/wood/oak/bookshelf/bookshelf3", "weight":1},
+				{ "model": "block/wood/oak/bookshelf/bookshelf4", "weight":6},
+				{ "model": "block/wood/oak/bookshelf/bookshelf5", "weight":1},
+				{ "model": "block/wood/oak/bookshelf/bookshelf6", "weight":6},
+				{ "model": "block/wood/oak/bookshelf/bookshelf7", "weight":6}
+        ]
+    }
+}
+

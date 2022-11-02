@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [ 
+        	{ "model": "block/flora/poppy/poppy", "weight": 1 },
+			{ "model": "block/flora/poppy/poppy1", "weight": 1 },
+			{ "model": "block/flora/poppy/poppy2", "weight": 1 },
+			{ "model": "block/flora/poppy/poppy3", "weight": 1 }
+ 		]   
+    }
+}

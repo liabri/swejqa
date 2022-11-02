@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [ { "model": "block/flora/brown_mushroom/brown_mushroom", "weight":1 }
+,{ "model": "block/flora/brown_mushroom/brown_mushroom1", "weight":1 }
+,{ "model": "block/flora/brown_mushroom/brown_mushroom2", "weight":1 }
+,{ "model": "block/flora/brown_mushroom/brown_mushroom3", "weight":1 }
+,{ "model": "block/flora/brown_mushroom/brown_mushroom4", "weight":1 }
+ ]   }
+}

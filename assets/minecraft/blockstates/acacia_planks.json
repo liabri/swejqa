@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "": [ 
+        	{ "model": "block/wood/acacia/acacia_planks", "weight":1 },
+        	{ "model": "block/wood/acacia/acacia_planks1", "weight":1 },
+        	{ "model": "block/wood/acacia/acacia_planks2", "weight":1 },
+        	{ "model": "block/wood/acacia/acacia_planks3", "weight":1 },
+        	{ "model": "block/wood/acacia/acacia_planks4", "weight":1 },
+        	{ "model": "block/wood/acacia/acacia_planks5", "weight":1 },
+        	{ "model": "block/wood/acacia/acacia_planks6", "weight":1 },
+        	{ "model": "block/wood/acacia/acacia_planks7", "weight":1 },
+        	{ "model": "block/wood/acacia/acacia_planks8", "weight":1 },
+        	{ "model": "block/wood/acacia/acacia_planks9", "weight":1 },
+        	{ "model": "block/wood/acacia/acacia_planks10", "weight":1 },
+        	{ "model": "block/wood/acacia/acacia_planks11", "weight":1 },
+        	{ "model": "block/wood/acacia/acacia_planks12", "weight":1 }
+		]   
+    }
+}

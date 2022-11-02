@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/minerals/iron/chain",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "minecraft:block/minerals/iron/chain"
+    },
+    "axis=z": {
+      "model": "minecraft:block/minerals/iron/chain",
+      "x": 90
+    }
+  }
+}

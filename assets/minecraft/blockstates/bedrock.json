@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/stone/bedrock"
+      },
+      {
+        "model": "minecraft:block/stone/bedrock_mirrored"
+      },
+      {
+        "model": "minecraft:block/stone/bedrock",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/stone/bedrock_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

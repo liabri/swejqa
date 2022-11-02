@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "type=bottom": [
+			{ "model": "block/wood/spruce/spruce_slab", "weight": 20 },
+			{ "model": "block/wood/spruce/spruce_slab1", "weight": 20 },
+			{ "model": "block/wood/spruce/spruce_slab2", "weight": 20 },
+			{ "model": "block/wood/spruce/spruce_slab3", "weight": 20 }
+		],
+        "type=top": [
+			{ "model": "block/wood/spruce/spruce_slab_top", "weight": 20 },
+			{ "model": "block/wood/spruce/spruce_slab_top1", "weight": 20 },
+			{ "model": "block/wood/spruce/spruce_slab_top2", "weight": 20 },
+			{ "model": "block/wood/spruce/spruce_slab_top3", "weight": 20 }
+		],	
+        "type=double": [
+	    	{"model": "block/wood/spruce/spruce_planks", "weight": 20 },
+	    	{"model": "block/wood/spruce/spruce_planks1", "weight": 20 },
+	    	{"model": "block/wood/spruce/spruce_planks2", "weight": 20 },
+	    	{"model": "block/wood/spruce/spruce_planks3", "weight": 20}
+		]
+    }
+}

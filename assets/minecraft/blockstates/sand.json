@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/sand/default/sand_0"
+      },
+      {
+        "model": "minecraft:block/sand/default/sand_1"
+      },
+      {
+        "model": "minecraft:block/sand/default/sand_2"
+      },
+      {
+        "model": "minecraft:block/sand/default/sand_3"
+      }
+    ]
+  }
+}

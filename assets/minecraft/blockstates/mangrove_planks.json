@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+{ "model": "block/wood/mangrove/mangrove_planks1", "weight":1 }
+,{ "model": "block/wood/mangrove/mangrove_planks2", "weight":1 }
+,{ "model": "block/wood/mangrove/mangrove_planks3", "weight":1 }
+,{ "model": "block/wood/mangrove/mangrove_planks4", "weight":1 }
+,{ "model": "block/wood/mangrove/mangrove_planks5", "weight":2 }
+,{ "model": "block/wood/mangrove/mangrove_planks6", "weight":2 }
+,{ "model": "block/wood/mangrove/mangrove_planks7", "weight":2 }
+,{ "model": "block/wood/mangrove/mangrove_planks8", "weight":2 }
+,{ "model": "block/wood/mangrove/mangrove_planks9", "weight":1 }
+,{ "model": "block/wood/mangrove/mangrove_planks10", "weight":1 }
+,{ "model": "block/wood/mangrove/mangrove_planks11", "weight":1 }
+,{ "model": "block/wood/mangrove/mangrove_planks12", "weight":1}
+
+ ]   }
+}

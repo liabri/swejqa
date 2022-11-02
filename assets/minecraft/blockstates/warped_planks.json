@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [ { "model": "block/wood/warped/warped_planks", "weight":1 }
+,{ "model": "block/wood/warped/warped_planks1", "weight":1 }
+,{ "model": "block/wood/warped/warped_planks2", "weight":1 }
+,{ "model": "block/wood/warped/warped_planks3", "weight":1 }
+,{ "model": "block/wood/warped/warped_planks4", "weight":1 }
+,{ "model": "block/wood/warped/warped_planks5", "weight":1 }
+,{ "model": "block/wood/warped/warped_planks6", "weight":1 }
+,{ "model": "block/wood/warped/warped_planks7", "weight":1 }
+,{ "model": "block/wood/warped/warped_planks8", "weight":1 }
+,{ "model": "block/wood/warped/warped_planks9", "weight":1 }
+,{ "model": "block/wood/warped/warped_planks10", "weight":1 }
+,{ "model": "block/wood/warped/warped_planks11", "weight":1 }
+,{ "model": "block/wood/warped/warped_planks12", "weight":1 }
+
+ ]   }
+}

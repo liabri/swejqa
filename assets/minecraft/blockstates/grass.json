@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [ 
+			{ "model": "block/flora/grass/grass", "weight": 4 },
+			{ "model": "block/flora/grass/grass1", "weight": 4 },
+			{ "model": "block/flora/grass/grass2", "weight": 4 },
+			{ "model": "block/flora/grass/grass3", "weight": 3 },
+			{ "model": "block/flora/grass/grass4", "weight": 3 },
+			{ "model": "block/flora/grass/grass5", "weight": 3 },
+			{ "model": "block/flora/grass/grass6", "weight": 3 },
+			{ "model": "block/flora/grass/grass7", "weight": 4 },
+			{ "model": "block/flora/grass/grass8", "weight": 3 },
+			{ "model": "block/flora/grass/grass9", "weight": 3 },
+			{ "model": "block/flora/grass/grass10", "weight": 3 },
+			{ "model": "block/flora/grass/grass11", "weight": 3 },
+			{ "model": "block/flora/grass/grass12", "weight": 3 },
+			{ "model": "block/flora/grass/grass13", "weight": 3 },
+			{ "model": "block/flora/grass/grass14", "weight": 2 },
+			{ "model": "block/flora/grass/grass15", "weight": 2 }
+		]   
+	}
+}

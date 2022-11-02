@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "block/stone/sandstone/cut_sandstone_bottom",
+        "top": "block/stone/sandstone/cut_sandstone_top",
+        "side": "block/stone/sandstone/chiseled_sandstone"
+    }
+}
+

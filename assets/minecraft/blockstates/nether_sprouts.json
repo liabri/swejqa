@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [ { "model": "block/flora/nether_sprouts/nether_sprouts", "weight":1 }
+,{ "model": "block/flora/nether_sprouts/nether_sprouts1", "weight":1 }
+,{ "model": "block/flora/nether_sprouts/nether_sprouts2", "weight":1 }
+,{ "model": "block/flora/nether_sprouts/nether_sprouts3", "weight":1 }
+
+ ]   }
+}

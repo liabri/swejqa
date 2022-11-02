@@ -1,0 +1,14 @@
+{
+    "multipart": [
+		{	"apply": { "model": "block/flower_pot"}},
+		
+		{	"apply": [
+		
+			{	"model": "block/flora/cactus/potted_cactus" },
+			{	"model": "block/flora/cactus/potted_cactus", "y": 90 },
+			{	"model": "block/flora/cactus/potted_cactus", "y": 180 },
+			{	"model": "block/flora/cactus/potted_cactus", "y": 270 }
+			]
+		}
+    ]
+}

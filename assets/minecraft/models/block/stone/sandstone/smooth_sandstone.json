@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/stone/sandstone/sandstone_smooth"
+    }
+}

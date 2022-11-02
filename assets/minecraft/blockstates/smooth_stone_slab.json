@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/stone/stone/smooth_stone"
+    },
+    "type=double": {
+      "model": "minecraft:block/stone/stone/smooth_stone_slab_double"
+    },
+    "type=top": {
+      "model": "minecraft:block/stone/stone/smooth_stone"
+    }
+  }
+}

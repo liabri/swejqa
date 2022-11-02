@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "block/utility/anvil" },
+        "facing=west": { "model": "block/utility/anvil", "y": 90 },
+        "facing=north": { "model": "block/utility/anvil", "y": 180 },
+        "facing=east": { "model": "block/utility/anvil", "y": 270 }
+    }
+}

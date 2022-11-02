@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/flower_pot_cross",
+  "textures": {
+    "plant": "minecraft:block/flora/brown_mushroom/brown_mushroom_potted"
+  }
+}

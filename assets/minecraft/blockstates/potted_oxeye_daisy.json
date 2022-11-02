@@ -1,0 +1,14 @@
+{
+    "multipart": [
+		{	"apply": { "model": "block/flower_pot"}},
+		
+		{	"apply": [
+		
+			{	"model": "block/flora/oxeye_daisy/potted_oxeye_daisy" },
+			{	"model": "block/flora/oxeye_daisy/potted_oxeye_daisy", "y": 90 },
+			{	"model": "block/flora/oxeye_daisy/potted_oxeye_daisy", "y": 180 },
+			{	"model": "block/flora/oxeye_daisy/potted_oxeye_daisy", "y": 270 }
+			]
+		}
+    ]
+}

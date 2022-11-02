@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "type=bottom": [
+			{ "model": "block/wood/dark_oak/dark_oak_slab", "weight": 20 },
+			{ "model": "block/wood/dark_oak/dark_oak_slab1", "weight": 20 },
+			{ "model": "block/wood/dark_oak/dark_oak_slab2", "weight": 20 },
+			{ "model": "block/wood/dark_oak/dark_oak_slab3", "weight": 20 }
+		],
+        "type=top": [
+			{ "model": "block/wood/dark_oak/dark_oak_slab_top", "weight": 20 },
+			{ "model": "block/wood/dark_oak/dark_oak_slab_top1", "weight": 20 },
+			{ "model": "block/wood/dark_oak/dark_oak_slab_top2", "weight": 20 },
+			{ "model": "block/wood/dark_oak/dark_oak_slab_top3", "weight": 20 }
+		],	
+        "type=double": [
+	    	{"model": "block/wood/dark_oak/dark_oak_planks", "weight": 20 },
+	    	{"model": "block/wood/dark_oak/dark_oak_planks1", "weight": 20 },
+	    	{"model": "block/wood/dark_oak/dark_oak_planks2", "weight": 20 },
+	    	{"model": "block/wood/dark_oak/dark_oak_planks3", "weight": 20}
+		]
+    }
+}

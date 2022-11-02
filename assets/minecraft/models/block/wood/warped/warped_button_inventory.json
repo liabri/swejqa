@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "minecraft:block/wood/warped/warped_button",
+    "side": "minecraft:block/wood/warped/warped_planks"
+  }
+}

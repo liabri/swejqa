@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "block/stone/andesite/andesite3",
+        "top": "block/stone/andesite/andesite3",
+        "side": "block/stone/andesite/andesite3"
+    }
+}

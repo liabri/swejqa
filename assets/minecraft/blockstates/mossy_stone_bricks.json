@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/stone/stone/mossy_stone_bricks", "weight": 15  },
+            { "model": "block/stone/stone/mossy_stone_bricks1", "weight": 15  },
+            { "model": "block/stone/stone/mossy_stone_bricks2", "weight": 15  },
+            { "model": "block/stone/stone/mossy_stone_bricks3", "weight": 15  },
+            { "model": "block/stone/stone/mossy_stone_bricks4", "weight": 15  },			
+            { "model": "block/stone/stone/mossy_stone_bricks5", "weight": 15  }
+        ]
+    }
+}

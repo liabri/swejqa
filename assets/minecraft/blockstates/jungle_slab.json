@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "type=bottom": [
+			{ "model": "block/wood/jungle/jungle_slab", "weight": 20 },
+			{ "model": "block/wood/jungle/jungle_slab1", "weight": 20 },
+			{ "model": "block/wood/jungle/jungle_slab2", "weight": 20 },
+			{ "model": "block/wood/jungle/jungle_slab3", "weight": 20 }
+		],
+        "type=top": [
+			{ "model": "block/wood/jungle/jungle_slab_top", "weight": 20 },
+			{ "model": "block/wood/jungle/jungle_slab_top1", "weight": 20 },
+			{ "model": "block/wood/jungle/jungle_slab_top2", "weight": 20 },
+			{ "model": "block/wood/jungle/jungle_slab_top3", "weight": 20 }
+		],	
+        "type=double": [
+	    	{"model": "block/wood/jungle/jungle_planks", "weight": 20 },
+	    	{"model": "block/wood/jungle/jungle_planks1", "weight": 20 },
+	    	{"model": "block/wood/jungle/jungle_planks2", "weight": 20 },
+	    	{"model": "block/wood/jungle/jungle_planks3", "weight": 20}
+		]
+    }
+}

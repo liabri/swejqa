@@ -1,0 +1,14 @@
+{
+    "multipart": [
+		{	"apply": { "model": "block/flower_pot"}},
+		
+		{	"apply": [
+		
+			{	"model": "block/flora/fern/potted_fern" },
+			{	"model": "block/flora/fern/potted_fern", "y": 90 },
+			{	"model": "block/flora/fern/potted_fern", "y": 180 },
+			{	"model": "block/flora/fern/potted_fern", "y": 270 }
+			]
+		}
+    ]
+}

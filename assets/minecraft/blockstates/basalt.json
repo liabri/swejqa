@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/stone/basalt/basalt",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "minecraft:block/stone/basalt/basalt"
+    },
+    "axis=z": {
+      "model": "minecraft:block/stone/basalt/basalt",
+      "x": 90
+    }
+  }
+}

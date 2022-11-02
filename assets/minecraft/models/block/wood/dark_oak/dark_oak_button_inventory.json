@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "minecraft:block/wood/dark_oak/dark_oak_button",
+    "side": "minecraft:block/wood/dark_oak/dark_oak_planks"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/dirt/rooted_dirt"
+      },
+      {
+        "model": "minecraft:block/dirt/rooted_dirt",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/dirt/rooted_dirt",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/dirt/rooted_dirt",
+        "y": 270
+      }
+    ]
+  }
+}

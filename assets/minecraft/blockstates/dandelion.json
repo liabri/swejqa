@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [ { "model": "block/flora/dandelion/dandelion", "weight":4 }
+,{ "model": "block/flora/dandelion/dandelion1", "weight":4 }
+,{ "model": "block/flora/dandelion/dandelion2", "weight":4 }
+,{ "model": "block/flora/dandelion/dandelion3", "weight":3 }
+ ]   }
+}

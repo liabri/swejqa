@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/flora/cactus/template_cactus_flower_0",
+  "ambientocclusion": false,
+  "texture_size": [32, 32],
+  "textures": {
+		"flower": "block/flora/cactus/cactus_flower_1",
+		"top": "block/flora/cactus/cactus_top",
+		"side": "block/flora/cactus/cactus_side",
+		"particle": "block/flora/cactus/cactus_side",
+		"bottom": "block/flora/cactus/cactus_bottom"
+  }
+}

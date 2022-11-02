@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "texture": "block/wood/warped/warped_fence"
+    }
+}

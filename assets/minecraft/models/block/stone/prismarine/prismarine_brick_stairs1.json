@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "block/stone/prismarine/prismarine_bricks1",
+        "top": "block/stone/prismarine/prismarine_bricks1",
+        "side": "block/stone/prismarine/prismarine_bricks1"
+    }
+}

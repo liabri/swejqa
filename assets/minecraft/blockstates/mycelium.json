@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "minecraft:block/dirt/mycelium"
+      },
+      {
+        "model": "minecraft:block/dirt/mycelium",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/dirt/mycelium",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/dirt/mycelium",
+        "y": 270
+      }
+    ],
+    "snowy=true": {
+      "model": "minecraft:block/dirt/grass_block_snow"
+    }
+  }
+}

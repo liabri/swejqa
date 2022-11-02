@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [ 
+			{ "model": "block/stone/prismarine/dark_prismarine1", "weight":1 },
+			{ "model": "block/stone/prismarine/dark_prismarine2", "weight":1 },
+			{ "model": "block/stone/prismarine/dark_prismarine3", "weight":1 },
+			{ "model": "block/stone/prismarine/dark_prismarine4", "weight":1 },
+			{ "model": "block/stone/prismarine/dark_prismarine5", "weight":1 }
+		]   
+    }
+}

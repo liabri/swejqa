@@ -1,0 +1,40 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "block/dirt/podzol", "weight":50 },
+            { "model": "block/dirt/podzol", "y": 90, "weight":50 },
+            { "model": "block/dirt/podzol", "y": 180, "weight":50 },
+            { "model": "block/dirt/podzol", "y": 270, "weight":50 },
+            { "model": "block/dirt/podzol1", "weight":50 },
+            { "model": "block/dirt/podzol1", "y": 90, "weight":50 },
+            { "model": "block/dirt/podzol1", "y": 180, "weight":50 },
+            { "model": "block/dirt/podzol1", "y": 270, "weight":50 },
+            { "model": "block/dirt/podzol2", "weight":10 },
+            { "model": "block/dirt/podzol2", "y": 90, "weight":10 },
+            { "model": "block/dirt/podzol2", "y": 180, "weight":10 },
+            { "model": "block/dirt/podzol2", "y": 270, "weight":10 },
+            { "model": "block/dirt/podzol3", "weight":10 },
+            { "model": "block/dirt/podzol3", "y": 90, "weight":10 },
+            { "model": "block/dirt/podzol3", "y": 180, "weight":10 },
+            { "model": "block/dirt/podzol3", "y": 270, "weight":10 },
+            { "model": "block/dirt/podzol4", "weight":50 },
+            { "model": "block/dirt/podzol4", "y": 90, "weight":50 },
+            { "model": "block/dirt/podzol4", "y": 180, "weight":50 },
+            { "model": "block/dirt/podzol4", "y": 270, "weight":50 },
+			{ "model": "block/dirt/podzol5", "weight":20 },
+            { "model": "block/dirt/podzol5", "y": 90, "weight":20 },
+            { "model": "block/dirt/podzol5", "y": 180, "weight":20 },
+            { "model": "block/dirt/podzol5", "y": 270, "weight":20 },
+			{ "model": "block/dirt/podzol6", "weight":50 },
+            { "model": "block/dirt/podzol6", "y": 90, "weight":50 },
+            { "model": "block/dirt/podzol6", "y": 180, "weight":50 },
+            { "model": "block/dirt/podzol6", "y": 270, "weight":50 },
+			{ "model": "block/dirt/podzol7", "weight":50 },
+            { "model": "block/dirt/podzol7", "y": 90, "weight":50 },
+            { "model": "block/dirt/podzol7", "y": 180, "weight":50 },
+            { "model": "block/dirt/podzol3", "y": 270, "weight":50 }
+        ],
+        "snowy=true":  { "model": "block/dirt/grass_block_snow" }
+    }
+}
+

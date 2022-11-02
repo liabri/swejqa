@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/stone/standstone/sandstone_slab" },
+        "type=top": { "model": "block/stone/standstone/sandstone_slab_top" },
+        "type=double": { "model": "block/stone/standstone/sandstone" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "block/flora/potatoes/potatoes_stage3_2"
+    }
+}

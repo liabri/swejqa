@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "block/stone/end_stone/end_stone_bricks2",
+        "top": "block/stone/end_stone/end_stone_bricks2",
+        "side": "block/stone/end_stone/end_stone_bricks2"
+    }
+}

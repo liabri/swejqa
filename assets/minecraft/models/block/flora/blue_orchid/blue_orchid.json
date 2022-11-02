@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "block/flora/blue_orchid/blue_orchid"
+    }
+}
