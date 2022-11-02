@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "minecraft:block/polished_diorite4"
+    "all": "minecraft:block/stone/diorite/polished_diorite4"
   }
 }
