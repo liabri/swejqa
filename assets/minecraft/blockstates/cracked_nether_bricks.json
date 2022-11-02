@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/stone/nether_bricks/cracked_nether_bricks"
+    }
+  }
+}
