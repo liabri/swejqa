@@ -1,8 +1,8 @@
 {
     "parent": "block/slab",
     "textures": {
-        "bottom": "block/granite2",
-        "top": "block/granite2",
-        "side": "block/granite2"
+        "bottom": "block/stone/granite/granite2",
+        "top": "block/stone/granite/granite2",
+        "side": "block/stone/granite/granite2"
     }
 }

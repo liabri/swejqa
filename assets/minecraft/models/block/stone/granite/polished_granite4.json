@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "minecraft:block/polished_granite4"
+    "all": "minecraft:block/stone/granite/polished_granite4"
   }
 }
