@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cross",
-  "textures": {
-    "cross": "minecraft:block/flora/saplings/acacia_sapling"
+  "variants": {
+    "": {
+      "model": "minecraft:block/flora/saplings/acacia_sapling"
+    }
   }
 }
