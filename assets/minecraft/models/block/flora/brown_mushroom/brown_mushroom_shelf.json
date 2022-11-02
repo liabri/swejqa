@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/flora/red_mushroom/red_mushroom_shelf",
+	"textures": {
+		"1": "block/flora/brown_mushroom/brown_mushroom_shelf"
+	}
+}
