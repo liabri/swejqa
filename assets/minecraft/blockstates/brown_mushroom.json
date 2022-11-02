@@ -17,7 +17,7 @@
 	  { "model": "minecraft:block/flora/brown_mushroom/brown_mushroom_shelf", "y": 90 },
 	  { "model": "minecraft:block/flora/brown_mushroom/brown_mushroom_shelf", "y": 180 },
 	  { "model": "minecraft:block/flora/brown_mushroom/brown_mushroom_shelf", "y": 270 },
-	  { "model": "minecraft:block/flora/brown_mushroom/air" }
+	  { "model": "minecraft:block/air" }
       ]
     }
   ]
