@@ -1,7 +1,7 @@
 {
     "parent": "block/template_wall_inventory_sand",
     "textures": {
-        "0": "block/stone/sandstone/sandstone_stair",
+        "0": "block/stone/sandstone/sandstone_bottom",
 		"1": "block/stone/sandstone/sandstone_wall",
 		"2": "block/stone/sandstone/sandstone_top"
     }
