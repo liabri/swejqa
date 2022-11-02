@@ -1,14 +1,12 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/pumpkin_side",
-		"2": "block/pumpkin_bottom",
-		"5": "block/jack_o_lantern/jack_o_lantern",
-		"6": "block/jack_o_lantern/jack_o_lantern_top",
-		"8": "block/3d_stem_model",
-		"14": "block/carved_pumpkin/carved_pumpkin",
-		"15": "block/carved_pumpkin/carved_pumpkin_top",
-		"particle": "block/pumpkin_side"
+		"0": "block/flora/pumpkin/pumpkin_side",
+		"2": "block/flora/pumpkin/pumpkin_bottom",
+		"5": "block/flora/pumpkin/jack_o_lantern/jack_o_lantern",
+		"6": "block/flora/pumpkin/jack_o_lantern/jack_o_lantern_top",
+		"14": "block/flora/pumpkin/carved_pumpkin/carved_pumpkin",
+		"15": "block/flora/pumpkin/carved_pumpkin/carved_pumpkin_top",
+		"particle": "block/flora/pumpkin/pumpkin_side"
 	},
 	"elements": [
 		{
@@ -21,18 +19,6 @@
 				"west": {"uv": [1, 0, 16, 16], "texture": "#0"},
 				"up": {"uv": [0, 1, 16, 16], "texture": "#6"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
-			}
-		},
-		{
-			"from": [7, 14.724, 7],
-			"to": [9, 17.85, 9],
-			"faces": {
-				"north": {"uv": [7, 3, 9, 5], "texture": "#8", "cullface": "up"},
-				"east": {"uv": [6, 2, 8, 5], "texture": "#8", "cullface": "up"},
-				"south": {"uv": [7, 1, 9, 5], "texture": "#8", "cullface": "up"},
-				"west": {"uv": [6, 1, 8, 5], "texture": "#8", "cullface": "up"},
-				"up": {"uv": [3, 11, 5, 13], "rotation": 90, "texture": "#8", "cullface": "up"},
-				"down": {"uv": [7, 7, 9, 9], "rotation": 270, "texture": "#8"}
 			}
 		},
 		{
