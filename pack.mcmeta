@@ -1,6 +1,7 @@
 {
   "pack": {
     "pack_format": 9,
-    "description": ""
+    "description": "",
+    "version": 0.2
   }
 }
