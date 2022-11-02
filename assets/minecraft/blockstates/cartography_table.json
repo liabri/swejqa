@@ -2,20 +2,9 @@
   "variants": {
     "": [
       {
-        "model": "minecraft:block/cartography_table"
-      },
-      {
-        "model": "minecraft:block/cartography_table",
-        "y": 90
-      },
-      {
-        "model": "minecraft:block/cartography_table",
-        "y": 180
-      },
-      {
-        "model": "minecraft:block/cartography_table",
-        "y": 270
+        "model": "minecraft:block/utility/cartography_table/cartography_table"
       }
     ]
   }
 }
+

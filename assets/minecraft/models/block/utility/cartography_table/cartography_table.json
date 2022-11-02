@@ -1,17 +1,17 @@
 {
 	"parent": "minecraft:block/cube",
 	"textures": {
-		"0": "block/cartography_table_front",
-		"1": "block/cartography_table_bottom",
-		"2": "block/cartography_table_left",
-		"3": "block/cartography_table_right",
-		"4": "block/cartography_table_back",
-		"5": "block/cartography_table_top",
-		"6": "block/cartography_table_extra",
-		"7": "block/cartography_table_extra2",
-		"8": "block/cartography_table_extra3",
-		"9": "block/cartography_table_inner",
-		"particle": "block/cartography_table_extra3"
+		"0": "block/utility/cartography_table/cartography_table_front",
+		"1": "block/utility/cartography_table/cartography_table_bottom",
+		"2": "block/utility/cartography_table/cartography_table_left",
+		"3": "block/utility/cartography_table/cartography_table_right",
+		"4": "block/utility/cartography_table/cartography_table_back",
+		"5": "block/utility/cartography_table/cartography_table_top",
+		"6": "block/utility/cartography_table/cartography_table_extra",
+		"7": "block/utility/cartography_table/cartography_table_extra2",
+		"8": "block/utility/cartography_table/cartography_table_extra3",
+		"9": "block/utility/cartography_table/cartography_table_inner",
+		"particle": "block/utility/cartography_table/cartography_table_extra3"
 	},
 	"elements": [
 		{
