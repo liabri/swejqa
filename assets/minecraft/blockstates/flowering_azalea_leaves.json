@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/flora/flowering_azalea/flowering_azalea_leaves"
+  "variants": {
+    "": {
+      "model": "minecraft:block/flora/flowering_azalea/flowering_azalea_leaves"
+    }
   }
 }
