@@ -1,10 +1,9 @@
 {
-	"__comment": "Made by Mickey Joe Alpha",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/cobblestone",
-		"base": "block/lever_base",
-		"lever": "block/lever"
+		"particle": "block/stone/stone/cobblestone",
+		"base": "block/utility/lever/lever_base",
+		"lever": "block/utility/lever/lever"
 	},
 	"elements": [ 	 
 		{
