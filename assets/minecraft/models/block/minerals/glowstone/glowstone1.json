@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "minecraft:block/glowstone1"
+    "all": "minecraft:block/minerals/glowstone/glowstone1"
   }
 }
