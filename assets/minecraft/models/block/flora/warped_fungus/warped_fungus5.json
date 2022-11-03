@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "block/warped_fungus_2"
+        "cross": "block/flora/warped_fungus/warped_fungus5"
     }
 }

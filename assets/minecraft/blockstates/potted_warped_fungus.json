@@ -1,7 +1,9 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/flora/warped_fungus/potted_warped_fungus"
-    }
-  }
+    "variants": {
+        "": [ { "model": "block/flora/warped_fungus/potted_warped_fungus1", "weight":1 }
+,{ "model": "block/flora/warped_fungus/potted_warped_fungus2", "weight":1 }
+,{ "model": "block/flora/warped_fungus/potted_warped_fungus3", "weight":1 }
+,{ "model": "block/flora/warped_fungus/potted_warped_fungus4", "weight":1 }
+,{ "model": "block/flora/warped_fungus/potted_warped_fungus5", "weight":1 }
+ ]   }
 }
