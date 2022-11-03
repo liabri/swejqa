@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "block/cake_map",
-		"particle": "block/cake_map"
+		"0": "block/cake/cake_map",
+		"particle": "block/cake/cake_map"
 	},
 	"elements": [
 		{
