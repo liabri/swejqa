@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/flora/warped_roots/potted_warped_roots"
+    }
+  }
+}
