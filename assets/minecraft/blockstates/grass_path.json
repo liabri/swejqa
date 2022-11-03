@@ -1,9 +1,6 @@
 {
     "variants": {
-        "": [ { "model": "block/dirt/grass_path", "weight":200 },
-{ "model": "block/dirt/grass_path", "y": 90, "weight":200 },
-{ "model": "block/dirt/grass_path", "y": 180, "weight":200 },
-{ "model": "block/dirt/grass_path", "y": 270, "weight":200 },
+        "": [
 { "model": "block/dirt/grass_path1", "weight":5 },
 { "model": "block/dirt/grass_path1", "y": 90, "weight":5 },
 { "model": "block/dirt/grass_path1", "y": 180, "weight":5 },
