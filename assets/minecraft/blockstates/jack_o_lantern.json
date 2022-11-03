@@ -2,7 +2,7 @@
   "variants": {
     "facing=east": [
       {
-        "model": "minecraft:block/flora/pumpkin/jack_o_lantern/jack_o_lantern0",
+        "model": "minecraft:block/flora/pumpkin/jack_o_lantern/jack_o_lantern",
         "y": 90
       },
       {
@@ -44,7 +44,7 @@
     ],
     "facing=north": [
       {
-        "model": "minecraft:block/flora/pumpkin/jack_o_lantern/jack_o_lantern0"
+        "model": "minecraft:block/flora/pumpkin/jack_o_lantern/jack_o_lantern"
       },
       {
         "model": "minecraft:block/flora/pumpkin/jack_o_lantern/jack_o_lantern1"
@@ -76,7 +76,7 @@
     ],
     "facing=south": [
       {
-        "model": "minecraft:block/flora/pumpkin/jack_o_lantern/jack_o_lantern0",
+        "model": "minecraft:block/flora/pumpkin/jack_o_lantern/jack_o_lantern",
         "y": 180
       },
       {
@@ -118,7 +118,7 @@
     ],
     "facing=west": [
       {
-        "model": "minecraft:block/flora/pumpkin/jack_o_lantern/jack_o_lantern0",
+        "model": "minecraft:block/flora/pumpkin/jack_o_lantern/jack_o_lantern",
         "y": 270
       },
       {
