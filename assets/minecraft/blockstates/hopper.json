@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "facing=down,enabled=false": {
+      "model": "minecraft:block/utility/hopper/hopper"
+    },
+    "facing=east,enabled=false": {
+      "model": "minecraft:block/utility/hopper/hopper_side",
+      "y": 90
+    },
+    "facing=north,enabled=false": {
+      "model": "minecraft:block/utility/hopper/hopper_side"
+    },
+    "facing=south,enabled=false": {
+      "model": "minecraft:block/utility/hopper/hopper_side",
+      "y": 180
+    },
+    "facing=west,enabled=false": {
+      "model": "minecraft:block/utility/hopper/hopper_side",
+      "y": 270
+    },
+    "facing=down,enabled=true": {
+      "model": "minecraft:block/utility/hopper/pipe"
+    },
+    "facing=east,enabled=true": {
+      "model": "minecraft:block/utility/hopper/pipe_side",
+      "y": 90
+    },
+    "facing=north,enabled=true": {
+      "model": "minecraft:block/utility/hopper/pipe_side"
+    },
+    "facing=south,enabled=true": {
+      "model": "minecraft:block/utility/hopper/pipe_side",
+      "y": 180
+    },
+    "facing=west,enabled=true": {
+      "model": "minecraft:block/utility/hopper/pipe_side",
+      "y": 270
+    }
+  }
+}
