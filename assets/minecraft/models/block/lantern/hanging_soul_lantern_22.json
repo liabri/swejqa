@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/lantern/template_hanging_lantern_22",
+  "textures": {
+    "lantern": "minecraft:block/lantern/soul_lantern"
+  }
+}

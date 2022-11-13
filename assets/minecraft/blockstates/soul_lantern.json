@@ -1,14 +1,16 @@
 {
-	"variants": {
-		"hanging=false": [
-			{ "model": "minecraft:block/lantern/standing_soul", "y": 0 },
-			{ "model": "minecraft:block/lantern/standing_soul", "y": 90 },
-			{ "model": "minecraft:block/lantern/standing_soul", "y": 180 },
-			{ "model": "minecraft:block/lantern/standing_soul", "y": 270 }
-		],
-		"hanging=true": [
-			{ "model": "minecraft:block/lantern/hanging_soul", "y": 0 },
-			{ "model": "minecraft:block/lantern/hanging_soul", "y": 180 }
-		]
-	}
+  "variants": {
+    "hanging=false": [
+		{ "model": "minecraft:block/lantern/soul_lantern" },
+		{ "model": "minecraft:block/lantern/soul_lantern_22" },
+		{ "model": "minecraft:block/lantern/soul_lantern_-22" },
+		{ "model": "minecraft:block/lantern/soul_lantern_45" }
+    ],
+    "hanging=true": [
+		{ "model": "minecraft:block/lantern/hanging_soul_lantern" },
+		{ "model": "minecraft:block/lantern/hanging_soul_lantern_22" },
+		{ "model": "minecraft:block/lantern/hanging_soul_lantern_-22" },
+		{ "model": "minecraft:block/lantern/hanging_soul_lantern_45" }
+    ]
+  }
 }
