@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/template_lantern_22",
+  "parent": "minecraft:block/lantern/template_lantern_22",
   "textures": {
-    "lantern": "minecraft:block/lantern_grounded"
+    "lantern": "minecraft:block/lantern/lantern_grounded"
   }
 }
