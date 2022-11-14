@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:block/iron_bars_item"
+    "layer0": "minecraft:block/minerals/iron/iron_bars_item"
   }
 }
