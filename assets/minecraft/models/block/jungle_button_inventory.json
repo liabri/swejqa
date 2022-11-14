@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/button_inventory",
-  "textures": {
-    "texture": "minecraft:block/wood/mangrove/mangrove_button",
-    "side": "minecraft:block/wood/mangrove/mangrove_planks"
-  }
-}
