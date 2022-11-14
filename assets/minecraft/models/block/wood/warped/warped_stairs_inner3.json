@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "block/wood/warped/warped_planks3",
+        "top": "block/wood/warped/warped_planks3",
+        "side": "block/wood/warped/warped_planks3"
+    }
+}

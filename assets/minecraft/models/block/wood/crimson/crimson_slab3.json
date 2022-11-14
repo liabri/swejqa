@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "block/wood/crimson/crimson_planks3",
+        "top": "block/wood/crimson/crimson_planks3",
+        "side": "block/wood/crimson/crimson_planks3"
+    }
+}
