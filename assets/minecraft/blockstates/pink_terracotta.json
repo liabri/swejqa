@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/pink_terracotta"
+      "model": "minecraft:block/terracotta/pink_terracotta"
     }
   }
 }
