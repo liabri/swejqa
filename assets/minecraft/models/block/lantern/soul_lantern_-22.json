@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/lantern/template_lantern_-22",
   "textures": {
-    "lantern": "minecraft:block/lantern/soul_lantern_grounded"
+    "lantern": "minecraft:block/lantern/soul_lantern"
   }
 }
