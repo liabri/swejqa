@@ -1,10 +1,9 @@
 {
-	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/cauldron",
-		"1": "block/water_still",
-		"particle": "block/cauldron"
+		"0": "block/utility/cauldron/cauldron",
+		"1": "block/powder_snow",
+		"particle": "block/utility/cauldron/cauldron"
 	},
 	"elements": [
 		{

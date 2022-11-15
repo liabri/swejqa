@@ -1,10 +1,9 @@
 {
-	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/cauldron",
-		"1": "block/water_still",
-		"particle": "block/cauldron"
+		"0": "block/utility/cauldron/cauldron",
+		"1": "block/lava_still",
+		"particle": "block/utility/cauldron/cauldron"
 	},
 	"elements": [
 		{
@@ -317,7 +316,7 @@
 		{
 			"name": "Cube",
 			"from": [3, 4, 3],
-			"to": [13, 7, 13],
+			"to": [13, 13, 13],
 			"faces": {
 				"up": {"uv": [3, 3, 13, 13], "texture": "#1","tintindex": 0, "cullface": "up"}
 			}
@@ -351,7 +350,7 @@
 	},
 	"groups": [
 		{
-			"name": "couldron1",
+			"name": "cauldron3",
 			"origin": [8, 8, 8],
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
 		}
