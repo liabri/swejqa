@@ -1,0 +1,26 @@
+{
+	"credit": "By Sindavar",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/trident"
+	},
+	"display": {
+		"ground": {
+			"translation": [0, 9, 0],
+			"scale": [1.26, 1.26, 0.5]
+		},
+		"gui": {
+			"translation": [0, 0, 0],
+			"scale": [1.08, 1.08, 0.9]
+		},
+		"head": {
+			"translation": [4.25, 4.25, 0],
+			"scale": [2.4, 2.4, 1]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0, 0],
+			"scale": [3.28, 3.28, 1.2]
+		}
+	}
+}
