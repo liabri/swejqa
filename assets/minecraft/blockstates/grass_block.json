@@ -32,11 +32,7 @@
             { "model": "block/dirt/grass_block7" },
             { "model": "block/dirt/grass_block7", "y": 90 },
             { "model": "block/dirt/grass_block7", "y": 180 },
-            { "model": "block/dirt/grass_block7", "y": 270 },
-            { "model": "block/dirt/grass_block8" },
-            { "model": "block/dirt/grass_block8", "y": 90 },
-            { "model": "block/dirt/grass_block8", "y": 180 },
-            { "model": "block/dirt/grass_block8", "y": 270 }
+            { "model": "block/dirt/grass_block7", "y": 270 }
         ],
         "snowy=true":  { "model": "block/dirt/grass_block_snow" }
     }
