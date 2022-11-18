@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "block/gold_ore1"
+        "all": "block/stone/stone/ores/gold_ore1"
     }
 }

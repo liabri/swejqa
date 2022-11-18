@@ -1,8 +1,8 @@
 {
     "variants": {
-        "": [ { "model": "block/emerald_ore", "weight":1 }
-,{ "model": "block/emerald_ore1", "weight":1 }
-,{ "model": "block/emerald_ore2", "weight":1 }
-,{ "model": "block/emerald_ore3", "weight":1 }
+        "": [ { "model": "block/stone/stone/ores/emerald_ore", "weight":1 }
+,{ "model": "block/stone/stone/ores/emerald_ore1", "weight":1 }
+,{ "model": "block/stone/stone/ores/emerald_ore2", "weight":1 }
+,{ "model": "block/stone/stone/ores/emerald_ore3", "weight":1 }
  ]   }
 }
