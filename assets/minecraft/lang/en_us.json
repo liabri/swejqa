@@ -37,5 +37,7 @@
   "rpo.guiretextures_darkmode.crosshair_style.dot": "\uE011 Dot",
   "rpo.guiretextures_darkmode.crosshair_style.pointer": "\uE012 Pointer",
   "rpo.guiretextures_darkmode.crosshair_style.launcher": "\uE013 Launcher",
-  "rpo.guiretextures_darkmode.crosshair_style.none": "None"
+  "rpo.guiretextures_darkmode.crosshair_style.none": "None",
+
+  "block.minecraft.moss_carpet": "Moss"
 }
