@@ -4,7 +4,6 @@
 		"2": "block/flora/pumpkin/pumpkin_bottom",
 		"5": "block/flora/pumpkin/carved_pumpkin/carved_pumpkin1",
 		"7": "block/flora/pumpkin/pumpkin_top",
-		"14": "block/flora/pumpkin/carved_pumpkin/carved_pumpkin",
 		"particle": "block/flora/pumpkin/pumpkin_side"
 	},
 	"elements": [
@@ -38,7 +37,7 @@
 			"faces": {
 				"north": {"uv": [1, 2, 15, 14], "texture": "#5"},
 				"east": {"uv": [0, 0, 0.6, 12], "texture": "#missing"},
-				"south": {"uv": [2, 2, 15, 14], "texture": "#14"},
+				"south": {"uv": [2, 2, 15, 14], "texture": "#5"},
 				"west": {"uv": [0, 0, 0.6, 12], "texture": "#missing"},
 				"up": {"uv": [0, 0, 13, 0.6], "texture": "#missing"},
 				"down": {"uv": [0, 0, 13, 0.6], "texture": "#missing"}
