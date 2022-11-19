@@ -1,0 +1,46 @@
+{
+    "variants": {
+        "north=true":  [ 
+          { "model": "block/flora/red_mushroom/red_mushroom_block" },
+          { "model": "block/flora/red_mushroom/red_mushroom_block1" }
+        ],
+        "east=true":  [ 
+          { "model": "block/flora/red_mushroom/red_mushroom_block", "y": 90, "uvlock": true },
+          { "model": "block/flora/red_mushroom/red_mushroom_block1", "y": 90, "uvlock": true }
+        ],
+        "south=true": [ 
+          { "model": "block/flora/red_mushroom/red_mushroom_block", "y": 180, "uvlock": true },
+          { "model": "block/flora/red_mushroom/red_mushroom_block1", "y": 180, "uvlock": true }
+        ],
+        "west=true": [ 
+          { "model": "block/flora/red_mushroom/red_mushroom_block", "y": 270, "uvlock": true },
+          { "model": "block/flora/red_mushroom/red_mushroom_block1", "y": 270, "uvlock": true }
+        ],
+        "up=true":  [ 
+          { "model": "block/flora/red_mushroom/red_mushroom_block", "x": 270, "uvlock": true },
+          { "model": "block/flora/red_mushroom/red_mushroom_block1", "x": 270, "uvlock": true }
+        ],
+        "down=true":  [ 
+          { "model": "block/flora/red_mushroom/red_mushroom_block", "x": 90, "uvlock": true },
+          { "model": "block/flora/red_mushroom/red_mushroom_block1", "x": 90, "uvlock": true }
+        ],
+        "north=false": [ 
+          { "model": "block/flora/mushroom/mushroom_block_inside" }
+        ],
+        "east=false": [ 
+          { "model": "block/flora/mushroom/mushroom_block_inside", "y": 90, "uvlock": false }
+        ],
+        "south=false":  [ 
+          { "model": "block/flora/mushroom/mushroom_block_inside", "y": 180, "uvlock": false }
+        ],
+        "west=false":  [ 
+          { "model": "block/flora/mushroom/mushroom_block_inside", "y": 270, "uvlock": false }
+        ],
+        "up=false": [ 
+          { "model": "block/flora/mushroom/mushroom_block_inside", "x": 270, "uvlock": false }
+        ],
+        "down=false": [ 
+          { "model": "block/flora/mushroom/mushroom_block_inside", "x": 90, "uvlock": false }
+        ]
+    }
+}
